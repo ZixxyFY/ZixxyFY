@@ -1,20 +1,119 @@
-# Hi there, I'm Neeraj Sahu! 👋
+<h1 align="center">Hi 👋, I'm Neeraj</h1>
+<h3 align="center">B.Tech CSE Student | Java Developer | MERN Learner | DSA Enthusiast</h3>
 
-I'm a Computer Science engineering student based in Bhubaneswar, specializing in Android and Full-Stack development. I enjoy integrating AI and machine learning capabilities (like OCR) into practical, everyday applications. 
+<p align="center">
+Building projects, solving problems, and continuously learning.
+</p>
 
-### 🚀 What I'm Up To
-- 🎓 Studying Computer Science and Engineering (Expected 2027)
-- 💻 Currently building **CareSync** (TypeScript/React Native) and **Receiptr** (Kotlin/Jetpack Compose)
-- ⚙️ Preparing for upcoming placement drives 
-- 📈 Exploring investments, mutual funds, and SIPs in my free time
+---
 
-### 🛠️ Tech Stack
-- **Mobile:** Android (Kotlin, Jetpack Compose), React Native
-- **Frontend:** React.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, Firebase
-- **Database:** MongoDB, Room Database
-- **Tools/AI:** Git, Google ML Kit (OCR)
+## 🚀 About Me
 
-### 📫 Let's Connect
-- **LinkedIn:** [in/neeraj-sahu-4a41a1248](https://linkedin.com/in/neeraj-sahu-4a41a1248)
-- **Instagram:** [@neeraaz11.og](https://instagram.com/neeraaz11.og)
+🎓 B.Tech Computer Science & Engineering (2027)
+
+💻 Passionate about Java, Web Development, and Problem Solving
+
+🌱 Currently learning **MERN Stack**, **System Design**, and **Data Structures & Algorithms**
+
+🧠 Practicing DSA regularly on LeetCode and coding platforms
+
+🎯 Goal: Become a Software Engineer at a top product/company
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+---
+
+### Tools
+
+Git • GitHub • VS Code • MySQL • Postman • IntelliJ IDEA
+
+---
+
+## 📌 Featured Projects
+
+📷 **Photography Booking Website**
+> MERN-based appointment booking and photography management platform.
+
+💊 **Smart Medicine Reminder System**
+> IoT project using ESP8266, RTC Module, Buzzer and LEDs.
+
+🌐 More projects coming soon...
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZixxyFY&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZixxyFY&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ZixxyFY&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Java
+- MERN Stack
+- Data Structures & Algorithms
+- SQL
+- System Design
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Master DSA
+- ✅ Build Full Stack Projects
+- ✅ Contribute to Open Source
+- ✅ Crack Placement Interviews
+- ✅ Learn Cloud Basics
+
+---
+
+## 🤝 Connect with Me
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn: https://linkedin.com/in/your-profile
+
+🌐 Portfolio (Coming Soon)
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
