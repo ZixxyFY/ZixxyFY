@@ -5,7 +5,7 @@ I'm a Computer Science engineering student based in Bhubaneswar, specializing in
 ### 🚀 What I'm Up To
 - 🎓 Studying Computer Science and Engineering (Expected 2027)
 - 💻 Currently building **CareSync** (TypeScript/React Native) and **Receiptr** (Kotlin/Jetpack Compose)
-- ⚙️ Preparing for upcoming TCS Digital/Prime placement drives 
+- ⚙️ Preparing for upcoming placement drives 
 - 📈 Exploring investments, mutual funds, and SIPs in my free time
 
 ### 🛠️ Tech Stack
