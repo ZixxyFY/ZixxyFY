@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neeraj</h1>
+<h1 align="center">Hi , I'm Neeraj</h1>
 <h3 align="center">B.Tech CSE Student | Java Developer | MERN Learner | DSA Enthusiast</h3>
 
 <p align="center">
@@ -76,7 +76,7 @@ Git • GitHub • VS Code • MySQL • Postman • IntelliJ IDEA
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ZixxyFY&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZixxyFY&theme=tokyonight"/>
 
 </p>
 
