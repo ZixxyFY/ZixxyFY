@@ -1,4 +1,7 @@
 <h1 align="center">Hi , I'm Neeraj</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Java+Developer;MERN+Stack+Learner;DSA+Enthusiast;B.Tech+CSE+Student;Always+Learning+New+Things" />
+</p>
 <h3 align="center">B.Tech CSE Student | Java Developer | MERN Learner | DSA Enthusiast</h3>
 
 <p align="center">
@@ -64,9 +67,12 @@ Git • GitHub • VS Code • MySQL • Postman • IntelliJ IDEA
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZixxyFY&show_icons=true&theme=tokyonight"/>
+## 📈 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZixxyFY&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZixxyFY&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZixxyFY&layout=compact&theme=tokyonight" />
+</p>
 
 </p>
 
@@ -76,7 +82,7 @@ Git • GitHub • VS Code • MySQL • Postman • IntelliJ IDEA
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZixxyFY&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=ZixxyFY&theme=tokyonight" />
 
 </p>
 
