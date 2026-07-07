@@ -67,8 +67,6 @@ Git • GitHub • VS Code • MySQL • Postman • IntelliJ IDEA
 
 <p align="center">
 
-## 📈 GitHub Stats
-
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZixxyFY&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZixxyFY&layout=compact&theme=tokyonight" />
@@ -78,11 +76,9 @@ Git • GitHub • VS Code • MySQL • Postman • IntelliJ IDEA
 
 ---
 
-## 🔥 GitHub Streak
+## 📈 Contribution Graph
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ZixxyFY&theme=tokyonight" />
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZixxyFY&theme=tokyo-night)
 
 </p>
 
